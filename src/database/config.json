@@ -1,0 +1,9 @@
+{
+    "local":{
+        "username": "root",
+        "password": "rgbXYZ@9182",
+        "database": "DummyDb",
+        "host": "localhost",
+        "dialect": "mysql"
+    }
+}
